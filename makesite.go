@@ -18,10 +18,10 @@ type content struct {
 func main() {
     filePtr := flag.String("file", "", "filename")
 	flag.Parse()
-	content := readFile(*filePtr)
+	content := readFile()
 //     # command-line-arguments
 // ./makesite.go:20:21: too many arguments in call to readFile
-// 	have (string)
+// 	have (string) :: removed *filePtr from ()
 // 	want ()
 
 	renderTemplate("template.tmpl", content)

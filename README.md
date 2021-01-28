@@ -1,5 +1,7 @@
 # 🔗 makesite
 
+## Spring 2021 Restart
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/MackRoe/makesite)](https://goreportcard.com/report/github.com/YOUR_USERNAME/YOUR_REPONAME)
 
 _Create your own custom Static Site Generator (like [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/)) by cloning and fulfilling the requirements in this repo!_

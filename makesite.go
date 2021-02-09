@@ -59,5 +59,3 @@ func writeTemplateToFile(filename string, data string) {
 	}
 
 }
-
-// https://gist.github.com/droxey/5984bf42810ad53f03b9c465e1484449 Dani's Solution

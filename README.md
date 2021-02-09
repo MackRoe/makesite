@@ -2,7 +2,7 @@
 
 ## Spring 2021 Restart
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/MackRoe/makesite)](https://goreportcard.com/report/github.com/YOUR_USERNAME/YOUR_REPONAME)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MackRoe/makesite)](https://goreportcard.com/report/github.com/MackRoe/old_makesite)
 
 _Create your own custom Static Site Generator (like [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/)) by cloning and fulfilling the requirements in this repo!_
 
@@ -57,7 +57,7 @@ If you get stuck on any step, be sure to print the output to `stdout`!
 - [x] Edit the provided HTML template (`template.tmpl`) to display the contents of `first-post.txt`.
 - [x] Render the contents of `first-post.txt` using Go Templates and print it to stdout.
 - [x] Write the HTML template to the filesystem to a file. Name it `first-post.html`.
-- [ ] Manually test the generated HTML page by running `/.makesite`. Double-click the `first-post.html` file that appears in your directory after running the command to open the generated page in your browser.
+- [x] Manually test the generated HTML page by running `/.makesite`. Double-click the `first-post.html` file that appears in your directory after running the command to open the generated page in your browser.
 - [ ] **Add, commit, and push to GitHub**.
 - [ ] Add a new flag to your command named `file`. This flag represents the name of any `.txt` file in the same directory as your program. Run `./makesite --file=latest-post.txt` to test.
 - [ ] Update the `save` function to use the input filename to generate a new HTML file. For example, if the input file is named `latest-post.txt`, the generated HTML file should be named `latest-post.html`.

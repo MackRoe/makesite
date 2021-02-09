@@ -18,10 +18,6 @@ func main() {
 	filePtr := flag.String("file", "", "filename to make page from")
 	flag.Parse()
 	content := readFile(*filePtr)
-	//     # command-line-arguments
-	// ./makesite.go:20:21: too many arguments in call to readFile
-	// 	have (string) :: removed *filePtr from ()
-	// 	want ()
 
 	// renderTemplate("template.tmpl", content)
 	writeTemplateToFile(*filePtr, content)

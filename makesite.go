@@ -15,6 +15,7 @@ type content struct {
 }
 
 func main() {
+	dirPtr := flag.String("dir", "", "dir flag")
 	filePtr := flag.String("file", "", "filename to make page from")
 	flag.Parse()
 	content := readFile(*filePtr)

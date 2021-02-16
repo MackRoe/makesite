@@ -1,0 +1,46 @@
+Abnormal Psychology, 2nd Edition
+Alexis Bridley and Lee W. Daffin Jr.
+
+Module 6: Dissociative Disorders
+
+Dissociative disorders are a group of disorders characterized by symptoms of disruption in consciousness, memory, identity, emotion, perception, motor control, or behavior (APA, 2013). These symptoms are likely to appear following a significant stressor or years of ongoing stress (i.e., abuse; Maldonadao & Spiegel, 2014).  Occasionally, one may experience temporary dissociative symptoms due to lack of sleep or ingestion of a substance; however, these would not qualify as a dissociative disorder due to the lack of impairment in functioning. Furthermore, individuals who suffer from acute stress disorder and PTSD often experience dissociative symptoms, such as amnesia, flashbacks, depersonalization and derealization; however, because of the identifiable stressor (and lack of additional symptoms listed below), they meet diagnostic criteria for a stress disorder as opposed to a dissociative disorder.
+
+There are three main types of dissociative disorders: Dissociative Identity Disorder, Dissociative Amnesia, and Depersonalization/Derealization Disorder.
+
+ 
+
+6.1.1. Dissociative Identity Disorder (DID)
+
+Dissociative Identity Disorder (DID) is what people commonly refer to as multiple personality disorder. The key diagnostic criteria for DID is the presence of two or more distinct personality states or expressions. The identities are distinct in that they often have a unique tone of voice, engage in different physical gestures (including gait), and have different personalities—ranging anywhere from cooperative and sweet to defiant and aggressive. Additionally, the identities can be of varying ages and gender, have different memories, and sensory-motor functioning.
+
+The second main diagnostic criteria for DID is that there must be a gap in the recall of events, information, or trauma due to the switching of personalities. These gaps are more excessive than typical forgetting one may experience due to lack of attention. These personalities must not be a secondary effect of a substance or medical condition (i.e., gap of information due to seizure).
+
+While personalities can present at any time, there is generally a dominant or primary personality that is present the majority of the time. From there, an individual may have several subpersonalities. Although it is hard to identify how many subpersonalities an individual may have at one time, it is believed that there are on average 15 subpersonalities for women and 8 for men (APA, 2000).
+
+The presentation of switching between personalities varies among individuals and can range from merely appearing to fall asleep, to very dramatic, involving excessive bodily movements. While often sudden and unexpected, switching is generally precipitated by a significant stressor, as the subpersonality best equipped to handle the current stressor will present. The relationship between subpersonalities varies between individuals, with some individuals reporting knowledge of other subpersonalities while others have a one-way amnesic relationship with subpersonalities, meaning they are not aware of other personalities (Barlow & Chu, 2014). These individuals will experience episodes of “amnesia” when the primary personality is not present.
+
+ 
+
+6.1.2. Dissociative Amnesia Disorder
+
+Dissociative amnesia disorder is identified by the inability to recall important autobiographical information. This type of amnesia is different from what one would consider permanent amnesia in that the information was successfully stored in memory; however, the individual cannot retrieve it. Additionally, individuals experiencing permanent amnesia often have a neurobiological cause, whereas dissociative amnesia does not (APA, 2013).
+
+There are a few types of amnesia within dissociative amnesia. Localized amnesia, the most common type, is the inability to recall events during a specific period. The length of time within a localized amnesia episode can vary—it can be as short as the time immediately surrounding a traumatic event, to months or years, should the traumatic event occur that long (as commonly seen in abuse and combat situations). Selective amnesia is, in a sense, a component of localized amnesia in that the individual can recall some, but not all, of the details during a specific period. For example, a soldier may experience dissociative amnesia during the time they were deployed, yet still have some memories of positive experiences such as celebrating Thanksgiving dinner or Christmas dinner with their unit.
+
+Conversely, some individuals experience generalized amnesia where they have a complete loss of memory of their entire life history, including their own identity. Individuals who experience this amnesia experience deficits in both semantic and procedural knowledge. This means that individuals have no common knowledge of (i.e. cannot identify letters, colors, numbers) nor do they have the ability to engage in learned skills (i.e. typing shoes, driving car).
+
+While generalized amnesia is extremely rare, it is also extremely frightening. The onset is acute, and the individual is often found wandering in a state of disorientation. Many times, these individuals are brought into emergency rooms by law enforcement following a dangerous situation such as an individual wandering on a busy road.
+
+Dissociative fugue is considered to be the most extreme type of dissociative amnesia. Not only does an individual forget personal information, but they also flee to a different location (APA, 2013). The degree of the fugue varies among individuals—with some experiencing symptoms for a short time (only hours) to others lasting years, affording individuals to take on new identities, careers, and even relationships. Similar to their sudden onset, dissociative fugues also end abruptly. Post dissociative fugue, the individual generally regains most of their memory and rarely relapses. Emotional adjustment after the fugue is dependent on the time the individual spent in the fugue, with those having been in a fugue state longer experiencing more emotional distress than those who experienced a shorter fugue (Kopelman, 2002).
+
+ 
+
+6.1.3. Depersonalization/Derealization Disorder
+
+Depersonalization/Derealization disorder is categorized by recurrent episodes of depersonalization and/or derealization. Depersonalization can be defined as a feeling of unreality or detachment from oneself. Individuals describe this feeling as an out-of-body experience where you are an observer of your thoughts, feelings, and physical being. Furthermore, some patients report feeling as though they lack speech or motor control, thus feeling at times like a robot. Distortions of one’s physical body have also been reported, with various body parts appearing enlarged or shrunken. Emotionally, one may feel detached from their feelings, lacking the ability to feel emotions despite knowing they have them.
+
+Symptoms of derealization include feelings of unreality or detachment from the world—whether it be individuals, objects, or their surroundings. For example, an individual may feel as though they are unfamiliar with their surroundings, even though they are in a place they have been to many times before. Feeling emotionally disconnected from close friends or family members whom they have strong feelings for is another common symptom experienced during derealization episodes. Sensory changes have also been reported, such as feeling as though your environment is distorted, blurry, or even artificial. Distortions of time, distance, and size/shape of objects may also occur.
+
+These episodes can last anywhere from a few hours to days, weeks, or even months (APA, 2013). The onset is generally sudden, and like the other dissociative disorders, is often triggered by intense stress or trauma. As one can imagine, depersonalization/derealization disorder can cause significant emotional distress, as well as impairment in one’s daily functioning (APA, 2013).
+
+https://opentext.wsu.edu/abnormal-psych/

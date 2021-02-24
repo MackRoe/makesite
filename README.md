@@ -73,7 +73,7 @@ If you get stuck on any step, be sure to print the output to `stdout`!
 
 - [x] Create 3 new `.txt` files for testing in the same directory as your project.
 - [x] Add a new flag to the `makesite` command named `dir`.
-- [ ] Use the flag to find all `.txt` files in the given directory. Print them to `stdout`.
+- [x] Use the flag to find all `.txt` files in the given directory. Print them to `stdout`.
 - [ ] With the list of `.txt` files you found, generate an HTML page for each.
 - [ ] Run `./makesite --dir=.` to test in your local directory.
 - [ ] **Add, commit, and push to GitHub**.
@@ -112,3 +112,7 @@ If you get stuck on any step, be sure to print the output to `stdout`!
 - [**Go By Example**: Panic](https://gobyexample.com/panic)
 - [**GopherAcademy**: Using Go Templates](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
 - [**rapid7.com**: Building a Simple CLI Tool with Golang](https://blog.rapid7.com/2016/08/04/build-a-simple-cli-tool-with-golang/)
+
+### Run Instructions
+1. `go build makesite.go`
+2. `./makesite --dir=directory_name --file=textfile_name.txt`

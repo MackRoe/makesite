@@ -4,6 +4,7 @@ package main
 
 import (
 	"flag"
+	"fmt"
 	"html/template"
 	"io/ioutil"
 	"os"
@@ -15,13 +16,34 @@ type content struct {
 }
 
 func main() {
-	dirPtr := flag.String("dir", "", "dir flag")
+	dirPtr := flag.String("dir", "", "dir to look for files in")
 	filePtr := flag.String("file", "", "filename to make page from")
 	flag.Parse()
 	content := readFile(*filePtr)
-
-	// renderTemplate("template.tmpl", content)
+	fmt.Println(*dirPtr)
 	writeTemplateToFile(*filePtr, content)
+
+	fileNames := findFilesInDir(*dirPtr)
+	writeTextfileList(fileNames)
+}
+
+// reference source for findFilesInDir function:
+// https://github.com/TasfiaAddrita/makesite/blob/master/makesite.go
+func findFilesInDir(dirName string) []string {
+	var textFiles []string
+
+	files, err := ioutil.ReadDir(dirName)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, file := range files {
+		fileName := strings.Split(file.Name(), ".")
+		if len(fileName) > 1 && fileName[1] == "txt" {
+			textFiles = append(textFiles, file.Name())
+		}
+	}
+	return textFiles
 }
 
 func readFile(name string) string {
@@ -31,17 +53,6 @@ func readFile(name string) string {
 	}
 
 	return string(fileContents)
-}
-
-func renderTemplate(filename string, data string) {
-	c := content{Content: data}
-	t := template.Must(template.New("template.tmpl").ParseFiles(filename))
-
-	var err error
-	err = t.Execute(os.Stdout, c)
-	if err != nil {
-		panic(err)
-	}
 }
 
 func writeTemplateToFile(filename string, data string) {
@@ -59,4 +70,11 @@ func writeTemplateToFile(filename string, data string) {
 		panic(err)
 	}
 
+}
+
+// write list to stdout
+func writeTextfileList(fileNames []string) {
+	for _, fileName := range fileNames {
+		fmt.Println(fileName)
+	}
 }

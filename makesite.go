@@ -17,13 +17,16 @@ type content struct {
 
 func main() {
 	dirPtr := flag.String("dir", "", "dir to look for files in")
-	filePtr := flag.String("file", "", "filename to make page from")
+	// filePtr := flag.String("file", "", "filename to make page from")
 	flag.Parse()
-	content := readFile(*filePtr)
-	fmt.Println(*dirPtr)
-	writeTemplateToFile(*filePtr, content)
-
 	fileNames := findFilesInDir(*dirPtr)
+	fmt.Println(*dirPtr)
+
+	for _, fileName := range fileNames {
+		content := readFile(fileName)
+		writeTemplateToFile(fileName, content)
+	}
+
 	writeTextfileList(fileNames)
 }
 
